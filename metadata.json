@@ -1,0 +1,7 @@
+{
+  "name": "AI Camera",
+  "description": "AI-controlled smart camera that automatically adjusts lighting, exposure, and focus in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
